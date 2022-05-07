@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE ucr_participation [
+<!ELEMENT ucr_participation (data)>
+<!ELEMENT data (data_year, state_name, total_agencies , participation_agencies, participating_agencies_pct, nibrs_participating_agencies,	nibrs_participating_agencies, covered_agencies, covered_pct, total_population, nibrs_population  )>
+
+<!ELEMENT data_year (#PCDATA)>
+<!ELEMENT state_name (#PCDATA)>
+<!ELEMENT total_agencies (#PCDATA)>
+<!ELEMENT participation_agencies (#PCDATA)>
+<!ELEMENT participating_agencies_pct (#PCDATA)>
+<!ELEMENT nibrs_participating_agencies (#PCDATA)>
+<!ELEMENT nibrs_participating_agencies (#PCDATA)>
+<!ELEMENT covered_agencies (#PCDATA)>
+<!ELEMENT covered_pct (#PCDATA)>
+<!ELEMENT total_population (#PCDATA)>
+<!ELEMENT nibrs_population (#PCDATA)>
+
+
+<!ATTLIST data row CDATA #REQUIRED>
+
+]>
+
+
+<ucr_participation>
+
+	<data id = "row 1">
+		<data_year> 1960 </data_year>
+		<state_name> Alaska </state_name>
+		<total_agencies> 55 </total_agencies>
+		<participation_agencies> 6 </participation_agencies>
+		<participating_agencies_pct> 0.11 </participating_agencies_pct>	
+		<nibrs_participating_agencies> 0 </nibrs_participating_agencies>	
+		<nibrs_participating_agencies> 0 </nibrs_participating_agencies>
+		<covered_agencies> 0 </covered_agencies>
+		<covered_pct> 0 </covered_pct>
+		<total_population> 226167 </total_population>
+		<nibrs_population> 0 </nibrs_population>
+
+	</data>
+
+	<data id = "row 2">
+		<data_year> 1960 </data_year>
+		<state_name> Alabama </state_name>
+		<total_agencies> 491 </total_agencies>
+		<participation_agencies> 129 </participation_agencies>
+		<participating_agencies_pct> 0.26 </participating_agencies_pct>	
+		<nibrs_participating_agencies> 0 </nibrs_participating_agencies>	
+		<nibrs_participating_agencies> 0 </nibrs_participating_agencies>
+		<covered_agencies> 0 </covered_agencies>
+		<covered_pct> 0 </covered_pct>
+		<total_population> 3324840 </total_population>
+		<nibrs_population> 0 </nibrs_population>
+		
+	</data>
+
+	<data id = "row 3">
+		<data_year> 1960 </data_year>
+		<state_name> Arkansas </state_name>
+		<total_agencies> 352 </total_agencies>
+		<participation_agencies> 112 </participation_agencies>
+		<participating_agencies_pct> 0.11 </participating_agencies_pct>	
+		<nibrs_participating_agencies> 0 </nibrs_participating_agencies>	
+		<nibrs_participating_agencies> 0 </nibrs_participating_agencies>
+		<covered_agencies> 1 </covered_agencies>
+		<covered_pct> 0.01 </covered_pct>
+		<total_population> 1810544 </total_population>
+		<nibrs_population> 0 </nibrs_population>
+		
+	</data>
+
+	<data id = "row 4">
+		<data_year> 1960 </data_year>
+		<state_name> American Samoa </state_name>
+		<total_agencies> 1 </total_agencies>
+		<participation_agencies> 0 </participation_agencies>
+		<participating_agencies_pct> 0 </participating_agencies_pct>	
+		<nibrs_participating_agencies> 0 </nibrs_participating_agencies>	
+		<nibrs_participating_agencies> 0 </nibrs_participating_agencies>
+		<covered_agencies> 0 </covered_agencies>
+		<covered_pct> 0 </covered_pct>
+		<total_population> 0 </total_population>
+		<nibrs_population> 0 </nibrs_population>
+		
+	</data>
+
+	<data id = "row 5">
+		<data_year> 1960 </data_year>
+		<state_name> Arizona </state_name>
+		<total_agencies> 174 </total_agencies>
+		<participation_agencies> 40 </participation_agencies>
+		<participating_agencies_pct> 0.23 </participating_agencies_pct>	
+		<nibrs_participating_agencies> 0 </nibrs_participating_agencies>	
+		<nibrs_participating_agencies> 0 </nibrs_participating_agencies>
+		<covered_agencies> 0 </covered_agencies>
+		<covered_pct> 0 </covered_pct>
+		<total_population> 1306352 </total_population>
+		<nibrs_population> 0 </nibrs_population>
+		
+	</data>
+
+	<data id = "row 6">
+		<data_year> 1960 </data_year>
+		<state_name> California </state_name>
+		<total_agencies> 939 </total_agencies>
+		<participation_agencies> 378 </participation_agencies>
+		<participating_agencies_pct> 0.4 </participating_agencies_pct>	
+		<nibrs_participating_agencies> 0 </nibrs_participating_agencies>	
+		<nibrs_participating_agencies> 0 </nibrs_participating_agencies>
+		<covered_agencies> 0 </covered_agencies>
+		<covered_pct> 0 </covered_pct>
+		<total_population> 16190816 </total_population>
+		<nibrs_population> 0 </nibrs_population>
+
+	</data>
+
+	<data id = "row 7">
+		<data_year> 1960 </data_year>
+		<state_name> Colorado </state_name>
+		<total_agencies> 323 </total_agencies>
+		<participation_agencies> 101 </participation_agencies>
+		<participating_agencies_pct> 0.31 </participating_agencies_pct>	
+		<nibrs_participating_agencies> 0 </nibrs_participating_agencies>	
+		<nibrs_participating_agencies> 0 </nibrs_participating_agencies>
+		<covered_agencies> 1 </covered_agencies>
+		<covered_pct> 0.01 </covered_pct>
+		<total_population> 1774226 </total_population>
+		<nibrs_population> 0 </nibrs_population>
+		
+	</data>	
+
+	<data id = "row 8">
+		<data_year> 1960 </data_year>
+		<state_name> Connecticut </state_name>
+		<total_agencies> 129 </total_agencies>
+		<participation_agencies> 56 </participation_agencies>
+		<participating_agencies_pct> 0.43 </participating_agencies_pct>	
+		<nibrs_participating_agencies> 0 </nibrs_participating_agencies>	
+		<nibrs_participating_agencies> 0 </nibrs_participating_agencies>
+		<covered_agencies> 0 </covered_agencies>
+		<covered_pct> 0 </covered_pct>
+		<total_population> 2557022 </total_population>
+		<nibrs_population> 0 </nibrs_population>
+		
+	</data>
+
+	<data id = "row 9">
+		<data_year> 1960 </data_year>
+		<state_name> Canal Zone </state_name>
+		<total_agencies> 1 </total_agencies>
+		<participation_agencies> 0 </participation_agencies>
+		<participating_agencies_pct> 0 </participating_agencies_pct>	
+		<nibrs_participating_agencies> 0 </nibrs_participating_agencies>	
+		<nibrs_participating_agencies> 0 </nibrs_participating_agencies>
+		<covered_agencies> 0 </covered_agencies>
+		<covered_pct> 0 </covered_pct>
+		<total_population> 42122 </total_population>
+		<nibrs_population> 0 </nibrs_population>
+	</data>	
+
+
+	<data id = "row 10">
+		<data_year> 1960 </data_year>
+		<state_name> District of Columbia </state_name>
+		<total_agencies> 3 </total_agencies>
+		<participation_agencies> 1 </participation_agencies>
+		<participating_agencies_pct> 0.33 </participating_agencies_pct>	
+		<nibrs_participating_agencies> 0 </nibrs_participating_agencies>	
+		<nibrs_participating_agencies> 0 </nibrs_participating_agencies>
+		<covered_agencies> 0 </covered_agencies>
+		<covered_pct> 0 </covered_pct>
+		<total_population> 763956 </total_population>
+		<nibrs_population> 0 </nibrs_population>
+		
+	</data>
+
+
+</ucr_participation>
+
+
+
+
+	
